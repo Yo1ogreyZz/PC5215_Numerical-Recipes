@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca8fdfe-67be-4913-ba1e-83d2e298db50" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Additional_Data_Recommendations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modify_notebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update_results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question4_pca_reconstruction.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fca8fdfe-67be-4913-ba1e-83d2e298db50" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,6 +119,7 @@
       <workItem from="1761147239635" duration="4523000" />
       <workItem from="1761152140658" duration="1204000" />
       <workItem from="1761198849661" duration="2026000" />
+      <workItem from="1761201150913" duration="5000" />
     </task>
     <servers />
   </component>
